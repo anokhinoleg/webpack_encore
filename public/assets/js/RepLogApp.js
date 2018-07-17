@@ -1,5 +1,7 @@
 'use strict';
 
+const Helper = require('./RepLogHelper');
+
 (function(window, $, Routing, swal) {
 
     let HelperInstances = new WeakMap();

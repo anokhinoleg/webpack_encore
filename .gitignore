@@ -13,3 +13,12 @@
 ###> symfony/web-server-bundle ###
 .web-server-pid
 ###< symfony/web-server-bundle ###
+
+
+###> IDE system folder ###
+.idea/
+###< IDE system folder ###
+
+###> IDE system folder ###
+/node_modules/*
+###< IDE system folder ###
