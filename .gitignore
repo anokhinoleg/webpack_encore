@@ -19,6 +19,6 @@
 .idea/
 ###< IDE system folder ###
 
-###> IDE system folder ###
+###> js libs ###
 /node_modules/*
-###< IDE system folder ###
+###< js libs ###
