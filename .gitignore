@@ -14,7 +14,6 @@
 .web-server-pid
 ###< symfony/web-server-bundle ###
 
-
 ###> IDE system folder ###
 .idea/
 ###< IDE system folder ###
@@ -22,3 +21,7 @@
 ###> js libs ###
 /node_modules/*
 ###< js libs ###
+
+###> js-build ###
+/public/build/*
+###< js-build ###

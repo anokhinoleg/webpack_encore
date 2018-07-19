@@ -10442,6 +10442,18 @@ return jQuery;
 
 /***/ }),
 
+/***/ "./public/assets/css/login.css":
+/*!*************************************!*\
+  !*** ./public/assets/css/login.css ***!
+  \*************************************/
+/*! dynamic exports provided */
+/*! all exports used */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "./public/assets/js/login.js":
 /*!***********************************!*\
   !*** ./public/assets/js/login.js ***!
@@ -10454,6 +10466,7 @@ return jQuery;
 
 
 var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
+__webpack_require__(/*! ../css/login.css */ "./public/assets/css/login.css");
 
 $(document).ready(function () {
     $('.js-recommended-login').on('click', '.js-show-login', function (e) {
