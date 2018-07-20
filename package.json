@@ -2,8 +2,11 @@
   "devDependencies": {
     "@symfony/webpack-encore": "^0.20.1",
     "bootstrap": "3",
+    "copy-webpack-plugin": "^4.5.2",
     "font-awesome": "4",
     "jquery": "^3.3.1",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
     "sweetalert2": "^7.25.6",
     "webpack-notifier": "^1.6.0"
   }
