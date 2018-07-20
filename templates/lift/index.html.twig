@@ -2,6 +2,12 @@
 
 {% block body %}
     <div class="row">
+        <div id="lift-stuff-app"></div>
+    </div>
+    <br/><br/><br/><br/><br/>
+
+    <hr/>
+    <div class="row">
         <div class="col-md-7 js-rep-log-table">
             <h2>
                 Lift History
@@ -53,5 +59,6 @@
 
 {% block javascripts %}
     {{ parent() }}
+    <script src="{{ asset('build/rep_log_react.js') }}"></script>
     <script src="{{ asset('build/rep_log.js') }}"></script>
 {% endblock %}
