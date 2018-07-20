@@ -1,8 +1,9 @@
 'use strict';
 
-const $ = require('jquery');
-const Helper = require('./RepLogHelper');
-const swal = require('sweetalert2');
+import $ from 'jquery';
+import Helper from './RepLogHelper';
+import swal from 'sweetalert2';
+import Routing from './Routing';
 
 let HelperInstances = new WeakMap();
 
@@ -212,5 +213,5 @@ class RepLogApp {
 </tr>
 `;
 
-module.exports = RepLogApp;
+export default RepLogApp;
 

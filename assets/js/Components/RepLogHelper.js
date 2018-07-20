@@ -28,5 +28,4 @@ class Helper {
         return totalWeight;
     }
 }
-
-module.exports = Helper;
+export default Helper;
