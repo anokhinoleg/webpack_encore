@@ -1,9 +1,20 @@
 {
-  "build/rep_log_react.js": "/build/rep_log_react.js",
-  "build/layout.js": "/build/layout.js",
-  "build/layout.css": "/build/layout.css",
-  "build/rep_log.js": "/build/rep_log.js",
-  "build/login.js": "/build/login.js",
-  "build/login.css": "/build/login.css",
-  "build/manifest.js": "/build/manifest.js"
+  "build/layout.js": "http://localhost:8080/build/layout.js",
+  "build/layout.css": "http://localhost:8080/build/layout.css",
+  "build/rep_log_react.js": "http://localhost:8080/build/rep_log_react.js",
+  "build/rep_log.js": "http://localhost:8080/build/rep_log.js",
+  "build/login.js": "http://localhost:8080/build/login.js",
+  "build/login.css": "http://localhost:8080/build/login.css",
+  "build/manifest.js": "http://localhost:8080/build/manifest.js",
+  "build/fonts/glyphicons-halflings-regular.woff2": "http://localhost:8080/build/fonts/glyphicons-halflings-regular.448c34a5.woff2",
+  "build/fonts/fontawesome-webfont.eot?v=4.7.0": "http://localhost:8080/build/fonts/fontawesome-webfont.674f50d2.eot",
+  "build/fonts/fontawesome-webfont.ttf?v=4.7.0": "http://localhost:8080/build/fonts/fontawesome-webfont.b06871f2.ttf",
+  "build/fonts/fontawesome-webfont.woff2?v=4.7.0": "http://localhost:8080/build/fonts/fontawesome-webfont.af7ae505.woff2",
+  "build/fonts/fontawesome-webfont.woff?v=4.7.0": "http://localhost:8080/build/fonts/fontawesome-webfont.fee66e71.woff",
+  "build/fonts/glyphicons-halflings-regular.eot": "http://localhost:8080/build/fonts/glyphicons-halflings-regular.f4769f9b.eot",
+  "build/images/glyphicons-halflings-regular.svg": "http://localhost:8080/build/images/glyphicons-halflings-regular.89889688.svg",
+  "build/fonts/glyphicons-halflings-regular.ttf": "http://localhost:8080/build/fonts/glyphicons-halflings-regular.e18bbf61.ttf",
+  "build/fonts/glyphicons-halflings-regular.woff": "http://localhost:8080/build/fonts/glyphicons-halflings-regular.fa277232.woff",
+  "build/images/fontawesome-webfont.svg?v=4.7.0": "http://localhost:8080/build/images/fontawesome-webfont.912ec66d.svg",
+  "build/images/dumbbell-mini.png": "http://localhost:8080/build/images/dumbbell-mini.41a097b7.png"
 }
